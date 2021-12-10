@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b5fa039-123b-44a7-b6b7-3b7501b4f066": {
+      "ProjectGuid": "7b5fa039-123b-44a7-b6b7-3b7501b4f066",
+      "DisplayName": "AzureResourceGroup2",
+      "ColorIndex": 0
+    },
+    "935ef24c-5fc2-4b84-ba83-1fbc70a30105": {
+      "ProjectGuid": "935ef24c-5fc2-4b84-ba83-1fbc70a30105",
+      "DisplayName": "exampleapp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

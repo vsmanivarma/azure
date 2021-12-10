@@ -1,0 +1,7 @@
+C:\Users\Santosh Mani Varma\source\repos\AzureResourceGroup2\exampleapp\obj\Release\net6.0\PubTmp\Out\exampleapp.exe
+C:\Users\Santosh Mani Varma\source\repos\AzureResourceGroup2\exampleapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Santosh Mani Varma\source\repos\AzureResourceGroup2\exampleapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Santosh Mani Varma\source\repos\AzureResourceGroup2\exampleapp\obj\Release\net6.0\PubTmp\Out\exampleapp.dll
+C:\Users\Santosh Mani Varma\source\repos\AzureResourceGroup2\exampleapp\obj\Release\net6.0\PubTmp\Out\exampleapp.deps.json
+C:\Users\Santosh Mani Varma\source\repos\AzureResourceGroup2\exampleapp\obj\Release\net6.0\PubTmp\Out\exampleapp.runtimeconfig.json
+C:\Users\Santosh Mani Varma\source\repos\AzureResourceGroup2\exampleapp\obj\Release\net6.0\PubTmp\Out\exampleapp.pdb
